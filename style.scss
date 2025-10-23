@@ -915,7 +915,7 @@ h1 {
     }
 
     small {
-      font-size: 14px;
+      font-size: 18px;
       line-height: 1.5;
     }
   }
@@ -995,5 +995,9 @@ h1 {
 
   .site-title {
     font-size: 23px;
+  }
+
+  .footer .brief-info {
+    width: 90%;
   }
 }
