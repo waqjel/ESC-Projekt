@@ -864,17 +864,15 @@ h1 {
   }
     .featured-card h3 {
     font-size: 30px;
-    padding: 2rem 1rem 1rem 1rem;
-    margin: 0;
+    padding: 20px 5px 0 20px;
   }
   .featured-card p {
     font-size: 21px;
     line-height: 1.2;
-    padding: 0 1rem 1rem 1rem;
-    margin: 0;
+    padding: 0 5px 0 20px;
   }
   .card-content .btn {
-    margin: 0 1rem 2rem 1rem;
+    margin: 0 5px 10px 20px;
   }
    .challenge-rooms-mobile .participants {
     padding-left: 35%;
@@ -882,7 +880,6 @@ h1 {
    .footer .brief-info {
     width: 85%;
   }
-  
 }
 
 /*# sourceMappingURL=style.css.map */
