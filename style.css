@@ -356,7 +356,7 @@ h1 {
   width: 100%;
   max-width: 440px;
   color: #333;
-  padding: 10% 5% 0 5%;
+  padding: 10% 5% 0 15%;
 }
 .featured-card p {
   font-size: 24px;
@@ -366,7 +366,7 @@ h1 {
   line-height: 1.4;
   width: 100%;
   max-width: 440px;
-  padding: 0 5% 0 5%;
+  padding: 0 5% 0 15%;
 }
 .featured-card:nth-child(even) {
   flex-direction: row-reverse;
@@ -385,22 +385,7 @@ h1 {
   padding: 16px 10px;
   cursor: pointer;
   transition: all 0.3s ease;
-  margin: 0 5% 0 5%;
-}
-.btn {
-  background-color: #e3170a;
-  color: white;
-  border-radius: 3px;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: bold;
-  text-align: center;
-  width: 308px;
-  border-style: none;
-  padding: 16px 15px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  margin: 0 0 0 15%;
+  margin: 0 5% 0 15%;
 }
 .btn:hover {
   background-color: #c1140a;
