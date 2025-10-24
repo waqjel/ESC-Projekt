@@ -408,18 +408,18 @@ h1 {
     width: 100%;
     max-width: 440px;
     color: $text-dark;
-    padding: 10% 0 0 15%;
+    padding: 10% 5% 0 5%;
   }
 
   p {
     font-size: 24px;
     font-weight: 400;
-    margin: 0 0 2rem 0;
+    margin: 0 2rem 2rem 0;
     color: $text-light;
     line-height: 1.4;
     width: 100%;
     max-width: 440px;
-    padding: 2% 0 0 15%;
+    padding: 0 5% 0 5%;
   }
 
   &:nth-child(even) {
@@ -437,10 +437,10 @@ h1 {
   text-align: center;
   width: 308px;
   border-style: none;
-  padding: 16px 15px;
+  padding: 16px 10px;
   cursor: pointer;
   transition: all 0.3s ease;
-  margin: 0 0 0 15%;
+  margin: 0 5% 0 5%;
 
   &:hover {
     background-color: $primary-red-hover;
@@ -1005,7 +1005,7 @@ h1 {
   .featured-card p {
     font-size: 21px;
     line-height: 1.2;
-    padding: 0 5px 0 10px;
+    padding: 0 10px 0 10px;
   }
 
   .card-content .btn {
